@@ -9,7 +9,7 @@ Installation and Setup of VS Code application. <br>
 Virtual Studio Code, commonly called VS Code, is an application that supports most programming languages like JavaScript, C++, HTML to name a few. This is user friendly as it accommodates beginner and advanced coders with the help of extensions. The customizable user interface allows users to utilize it with maximum comfort. <br>
 <br>
 **Procedure:** <br>
-1. Go to https://code.visualstudio.com/ and click on download. <br>
+1.	Go to https://code.visualstudio.com/ and click on download.<br>
 <br>
 2. Open the VS Code Setup application and accept the agreement. <br>
 <br>
