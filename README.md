@@ -34,6 +34,6 @@ Virtual Studio Code, commonly called VS Code, is an application that supports mo
 <br>
 15.	Save all your changes and close all the tabs. <br>
 <br>
-**Conclusion:**
+**Conclusion:** <br>
 We learnt to install VS Code. <br>
 We learnt the importance of installing MinGW. <br>
